@@ -1,12 +1,9 @@
 # CS-330-Computational-Graphics
 How do I approach designing software?
-What new design skills has your work on the project helped you to craft?
-What design process did you follow for your project work?
-How could tactics from your design approach be applied in future work?
+My approach to designing software is incremental.  We started with a basic rendering of a 3d model then each week we added features to it.  From basic texturing to interactive camera movement to complex lighting.  I learned many new skills in this course and got to apply skills gained in other courses.  Apart from basic coding skills, I specifically applied Linear Algebra.  While some of libraries had functions to transform 3d objects there were instances where I rendered objects in place and was able to use matrix math to manipulate them manually rather than changing my code structure.
+
 How do I approach developing programs?
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+When developing programs I have my list of requirements that I need to implement.  In the case of class work this requirments list is the rubric.  As with all software development we sometimes face challenges.  In this particualr course it was rendering multiple objects.  I came up with a unique solution by rendering multiple objects within one buffer object, but this required me to use linear algebra to manipulate objects.  So it would not be an ideal solution for everyone but it was a way forward for me. My approach didn't change throughout the development process.  My approach is to allways solve one problem then the next.  If I worry too much about the entirety of the project it's easy to get overwhelmed.  But once I solve enought small problems the project is complete.
+
 How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+Aside from learning how computational graphics work which was very eye opening this course has further refined my skills in OOP.  I'm not sure that rendering 3d objects manually through C++ code will be something I need to do in a future career, but the underlying fundamentals will be invaluable lessons learned.  
